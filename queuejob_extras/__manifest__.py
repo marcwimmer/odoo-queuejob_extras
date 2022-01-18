@@ -1,6 +1,7 @@
 {   'application': False,
     'author': 'Marc Wimmer (marc@itewimmer.de), Michael Tietz '
               'mtietz@mt-software.de',
+ "auto_install": True,
     'css': [],
     'data': [   'data/cronjobs.xml',
                 'views/queue_job_form.xml',
@@ -11,4 +12,4 @@
     'name': 'queuejob_extras',
     'qweb': [],
     'test': [],
-    'version': '13.0.1.0'}
+    'version': '11.0.1.0'}
